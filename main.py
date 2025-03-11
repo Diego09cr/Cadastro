@@ -1,7 +1,7 @@
 import func
 import func.funcoes
 pes = {}
-while True:
+while False:
     try:
         print('-'*50)
         print(f'{"MENU PRINCIPAL":^50}')
